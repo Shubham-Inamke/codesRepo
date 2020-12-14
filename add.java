@@ -9,5 +9,6 @@ public class Add {
         System.out.println("Addtion of num1 and num2 is: "+sum);
         
         System.out.println("Addition of static variables is: "+(a1+a2));
+        System.out.println("ultiplication two numbers is: "+(a1*a2));
     }
 }
