@@ -9,6 +9,9 @@ public class Add {
         
         System.out.println("Addition of static variables is: "+(a1+a2));
         System.out.println("Multiplication two numbers is: "+(a1*a2));
+        System.out.println("Division of two numbers is: "+(num1/num2));
+        
+        //ready to merge
         //done with this code
     }
 }
