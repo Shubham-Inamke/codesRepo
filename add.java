@@ -1,7 +1,6 @@
 public class Add {
     static int a1 = 20;
     static int a2 = 40;
-    
     public static void main(String [] args) {
         int num1 = 10;
         int num2 = 70;
@@ -13,5 +12,6 @@ public class Add {
         System.out.println("Division of two numbers is: "+(num1/num2));
         
         //ready to merge
+        //done with this code
     }
 }
